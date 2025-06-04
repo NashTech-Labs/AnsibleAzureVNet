@@ -1,0 +1,6 @@
+resource_group: example-rg
+location: eastus
+vnet_name: example-vnet
+address_prefix: 10.0.0.0/16
+subnet_name: example-subnet
+subnet_prefix: 10.0.1.0/24
